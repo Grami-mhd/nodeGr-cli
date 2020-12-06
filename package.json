@@ -1,6 +1,6 @@
 {
   "name": "@node-gr/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli for @node-gr",
   "main": "index.js",
   "scripts": {
