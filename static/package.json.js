@@ -16,6 +16,8 @@ module.exports = (projectName, nodeGrVersion) => {
       'body-parser': '^1.19.0',
       'nodeman': '^1.1.2',
       'ts-node': '^8.10.2',
+      "reflect-metadata": "^0.1.13",
+      "dotenv": "^8.2.0"
     },
     devDependencies: {
       '@node-gr/core': `latest`,
